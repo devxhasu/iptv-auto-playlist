@@ -6,10 +6,10 @@
 👨‍💻 Developer             : Hasan Ahmed
 ⚙️ Engine                : IPTV Premium Auto Engine v7.4
 📊 Run Status            : 🟢 SUCCESS
-🆔 Run ID                : 20261012-054831
-⏱️ Runtime               : 33.03s
-🕐 Finished              : 12 Oct 2026, 05:49 AM BDT
-⏭️ Next Update           : 12 Oct 2026, 06:27 AM BDT
+🆔 Run ID                : 20261012-121225
+⏱️ Runtime               : 27.96s
+🕐 Finished              : 12 Oct 2026, 12:12 PM BDT
+⏭️ Next Update           : 12 Oct 2026, 12:27 PM BDT
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 🎯 EXACT CHANNEL WHITELIST
@@ -28,8 +28,8 @@
 📚 Sources configured    : 21
 🟢 Working              : 20
 🔴 Failed               : 1
-📥 Records collected    : 60,114
-♻️ Unique candidates    : 12,521
+📥 Records collected    : 60,215
+♻️ Unique candidates    : 12,529
 🎯 Record limit         : 100,000
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -45,7 +45,7 @@
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 📦 Combined candidates  : 0
 🎯 Exact-name matches   : 0
-♻️ Duplicates removed   : 118,525
+♻️ Duplicates removed   : 118,713
 📌 Manual links added   : 0
 📂 Existing found       : 108
 📂 Existing kept        : 0
@@ -54,15 +54,15 @@
 🧪 HEALTH CHECK
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 🔍 Checked              : 306
-🟢 Live                 : 270
-🔴 Dead                 : 36
+🟢 Live                 : 274
+🔴 Dead                 : 32
 📌 Check limit          : 12,000
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 📺 FINAL PLAYLIST
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-🟢 Live streams         : 108
-📺 Channels             : 108
+🟢 Live streams         : 110
+📺 Channels             : 110
 🗂️ Categories           : 34
 🌍 Countries            : 0
 🗣️ Languages            : 0
@@ -84,7 +84,7 @@
 📦 Repository           : iptv-auto-playlist
 🌿 Branch              : main
 📄 Playlist             : playlist.m3u
-🟢 Published            : YES
+🟢 Published            : NO
 
 ╔══════════════════════════════════════════════════════════╗
 ║        ✅ SCRAPE & PUBLISH COMPLETED                    ║
