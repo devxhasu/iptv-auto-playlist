@@ -6,10 +6,10 @@
 👨‍💻 Developer             : Hasan Ahmed
 ⚙️ Engine                : IPTV Premium Auto Engine v7.4
 📊 Run Status            : 🟢 SUCCESS
-🆔 Run ID                : 20261013-094019
-⏱️ Runtime               : 38.05s
-🕐 Finished              : 13 Oct 2026, 09:40 AM BDT
-⏭️ Next Update           : 13 Oct 2026, 10:27 AM BDT
+🆔 Run ID                : 20261101-082225
+⏱️ Runtime               : 32.84s
+🕐 Finished              : 01 Nov 2026, 08:22 AM BDT
+⏭️ Next Update           : 01 Nov 2026, 08:27 AM BDT
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 🎯 EXACT CHANNEL WHITELIST
@@ -28,15 +28,15 @@
 📚 Sources configured    : 21
 🟢 Working              : 20
 🔴 Failed               : 1
-📥 Records collected    : 60,323
-♻️ Unique candidates    : 12,554
+📥 Records collected    : 61,210
+♻️ Unique candidates    : 12,722
 🎯 Record limit         : 100,000
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 🗄️ MONGODB DATABASE
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-📥 Records read         : 36,478
-🎯 Usable candidates    : 36,478
+📥 Records read         : 56,321
+🎯 Usable candidates    : 56,321
 📦 Record limit         : 1,000,000
 🔗 Status               : 🟢 Connected
 
@@ -45,25 +45,25 @@
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 📦 Combined candidates  : 0
 🎯 Exact-name matches   : 0
-♻️ Duplicates removed   : 118,874
+♻️ Duplicates removed   : 139,057
 📌 Manual links added   : 0
-📂 Existing found       : 106
+📂 Existing found       : 107
 📂 Existing kept        : 0
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 🧪 HEALTH CHECK
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-🔍 Checked              : 306
-🟢 Live                 : 256
-🔴 Dead                 : 50
+🔍 Checked              : 317
+🟢 Live                 : 285
+🔴 Dead                 : 32
 📌 Check limit          : 12,000
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 📺 FINAL PLAYLIST
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-🟢 Live streams         : 107
-📺 Channels             : 107
-🗂️ Categories           : 35
+🟢 Live streams         : 121
+📺 Channels             : 121
+🗂️ Categories           : 37
 🌍 Countries            : 0
 🗣️ Languages            : 0
 📡 Max streams/channel  : 1
@@ -84,7 +84,7 @@
 📦 Repository           : iptv-auto-playlist
 🌿 Branch              : main
 📄 Playlist             : playlist.m3u
-🟢 Published            : YES
+🟢 Published            : NO
 
 ╔══════════════════════════════════════════════════════════╗
 ║        ✅ SCRAPE & PUBLISH COMPLETED                    ║
