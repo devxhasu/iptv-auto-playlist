@@ -6,10 +6,10 @@
 👨‍💻 Developer             : Hasan Ahmed
 ⚙️ Engine                : IPTV Premium Auto Engine v7.4
 📊 Run Status            : 🟢 SUCCESS
-🆔 Run ID                : 20261107-065930
-⏱️ Runtime               : 34.31s
-🕐 Finished              : 07 Nov 2026, 07:00 AM BDT
-⏭️ Next Update           : 07 Nov 2026, 07:27 AM BDT
+🆔 Run ID                : 20261107-132150
+⏱️ Runtime               : 30.32s
+🕐 Finished              : 07 Nov 2026, 01:22 PM BDT
+⏭️ Next Update           : 07 Nov 2026, 01:27 PM BDT
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 🎯 EXACT CHANNEL WHITELIST
@@ -45,24 +45,24 @@
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 📦 Combined candidates  : 0
 🎯 Exact-name matches   : 0
-♻️ Duplicates removed   : 143,577
+♻️ Duplicates removed   : 143,581
 📌 Manual links added   : 0
-📂 Existing found       : 123
+📂 Existing found       : 127
 📂 Existing kept        : 0
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 🧪 HEALTH CHECK
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 🔍 Checked              : 332
-🟢 Live                 : 311
-🔴 Dead                 : 21
+🟢 Live                 : 303
+🔴 Dead                 : 29
 📌 Check limit          : 12,000
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 📺 FINAL PLAYLIST
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-🟢 Live streams         : 127
-📺 Channels             : 127
+🟢 Live streams         : 125
+📺 Channels             : 125
 🗂️ Categories           : 32
 🌍 Countries            : 0
 🗣️ Languages            : 0
@@ -84,7 +84,7 @@
 📦 Repository           : iptv-auto-playlist
 🌿 Branch              : main
 📄 Playlist             : playlist.m3u
-🟢 Published            : YES
+🟢 Published            : NO
 
 ╔══════════════════════════════════════════════════════════╗
 ║        ✅ SCRAPE & PUBLISH COMPLETED                    ║
