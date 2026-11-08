@@ -6,10 +6,10 @@
 👨‍💻 Developer             : Hasan Ahmed
 ⚙️ Engine                : IPTV Premium Auto Engine v7.4
 📊 Run Status            : 🟢 SUCCESS
-🆔 Run ID                : 20261108-045014
-⏱️ Runtime               : 31.5s
-🕐 Finished              : 08 Nov 2026, 04:50 AM BDT
-⏭️ Next Update           : 08 Nov 2026, 05:27 AM BDT
+🆔 Run ID                : 20261108-083438
+⏱️ Runtime               : 27.73s
+🕐 Finished              : 08 Nov 2026, 08:35 AM BDT
+⏭️ Next Update           : 08 Nov 2026, 09:27 AM BDT
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 🎯 EXACT CHANNEL WHITELIST
@@ -28,8 +28,8 @@
 📚 Sources configured    : 21
 🟢 Working              : 20
 🔴 Failed               : 1
-📥 Records collected    : 61,763
-♻️ Unique candidates    : 12,793
+📥 Records collected    : 61,938
+♻️ Unique candidates    : 12,833
 🎯 Record limit         : 100,000
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -45,7 +45,7 @@
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 📦 Combined candidates  : 0
 🎯 Exact-name matches   : 0
-♻️ Duplicates removed   : 143,737
+♻️ Duplicates removed   : 144,010
 📌 Manual links added   : 0
 📂 Existing found       : 114
 📂 Existing kept        : 0
@@ -53,17 +53,17 @@
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 🧪 HEALTH CHECK
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-🔍 Checked              : 233
-🟢 Live                 : 213
+🔍 Checked              : 232
+🟢 Live                 : 212
 🔴 Dead                 : 20
 📌 Check limit          : 12,000
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 📺 FINAL PLAYLIST
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-🟢 Live streams         : 114
-📺 Channels             : 114
-🗂️ Categories           : 29
+🟢 Live streams         : 113
+📺 Channels             : 113
+🗂️ Categories           : 28
 🌍 Countries            : 0
 🗣️ Languages            : 0
 📡 Max streams/channel  : 1
@@ -84,7 +84,7 @@
 📦 Repository           : iptv-auto-playlist
 🌿 Branch              : main
 📄 Playlist             : playlist.m3u
-🟢 Published            : YES
+🟢 Published            : NO
 
 ╔══════════════════════════════════════════════════════════╗
 ║        ✅ SCRAPE & PUBLISH COMPLETED                    ║
