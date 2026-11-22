@@ -6,10 +6,10 @@
 👨‍💻 Developer             : Hasan Ahmed
 ⚙️ Engine                : IPTV Premium Auto Engine v7.4
 📊 Run Status            : 🟢 SUCCESS
-🆔 Run ID                : 20261121-172932
-⏱️ Runtime               : 93.72s
-🕐 Finished              : 21 Nov 2026, 05:31 PM BDT
-⏭️ Next Update           : 21 Nov 2026, 06:27 PM BDT
+🆔 Run ID                : 20261122-174416
+⏱️ Runtime               : 88.33s
+🕐 Finished              : 22 Nov 2026, 05:45 PM BDT
+⏭️ Next Update           : 22 Nov 2026, 06:27 PM BDT
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 🎯 EXACT CHANNEL WHITELIST
@@ -28,8 +28,8 @@
 📚 Sources configured    : 26
 🟢 Working              : 25
 🔴 Failed               : 1
-📥 Records collected    : 66,824
-♻️ Unique candidates    : 15,528
+📥 Records collected    : 66,565
+♻️ Unique candidates    : 15,477
 🎯 Record limit         : 100,000
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -45,25 +45,25 @@
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 📦 Combined candidates  : 0
 🎯 Exact-name matches   : 0
-♻️ Duplicates removed   : 146,600
+♻️ Duplicates removed   : 146,174
 📌 Manual links added   : 0
-📂 Existing found       : 114
+📂 Existing found       : 111
 📂 Existing kept        : 0
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 🧪 HEALTH CHECK
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-🔍 Checked              : 623
-🟢 Live                 : 214
-🔴 Dead                 : 409
+🔍 Checked              : 629
+🟢 Live                 : 229
+🔴 Dead                 : 400
 📌 Check limit          : 12,000
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 📺 FINAL PLAYLIST
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-🟢 Live streams         : 111
-📺 Channels             : 111
-🗂️ Categories           : 32
+🟢 Live streams         : 117
+📺 Channels             : 117
+🗂️ Categories           : 30
 🌍 Countries            : 0
 🗣️ Languages            : 0
 📡 Max streams/channel  : 1
@@ -84,7 +84,7 @@
 📦 Repository           : iptv-auto-playlist
 🌿 Branch              : main
 📄 Playlist             : playlist.m3u
-🟢 Published            : YES
+🟢 Published            : NO
 
 ╔══════════════════════════════════════════════════════════╗
 ║        ✅ SCRAPE & PUBLISH COMPLETED                    ║
